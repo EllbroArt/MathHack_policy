@@ -1,1 +1,0 @@
-# MathHack_policy
